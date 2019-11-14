@@ -1,0 +1,55 @@
+}
+ul {
+width: : 960px;
+height: 70px;
+text-align: center;
+
+
+
+}
+
+li {
+display: inline-block;
+text-align: center;
+margin: 0 px 0px;
+width:180px;
+  background-color: #444444;
+
+
+}
+
+
+a {
+  color: #717171;
+}
+.pics {
+  align-self: center;
+  display: inline-block;
+margin: 15px;
+text-align: center;
+align-items:
+} 
+p{
+
+  align-self: center;
+  margin: 15px;
+  margin-bottom: 15px;
+  align-items:
+}
+
+scroll {
+  overflow: scroll;
+  display: inline-block;
+}
+
+.page {
+align-self: center;
+margin:auto;
+
+}
+footer{
+width: 980px;
+text-align: center;
+background: #444444;
+height: 40px;
+}
